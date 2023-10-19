@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.hero{
+    /* height: 600px; */
+    padding: 15em;
+    background: linear-gradient(90deg, rgba(0,0,0,0.5886729691876751) 0%, rgba(0,0,0,0.6222864145658263) 100%), url('../img/herobg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    text-align: center;
+}
+
+.hero h1{
+    font-size: 4rem;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+hr {
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 12px;
+}
